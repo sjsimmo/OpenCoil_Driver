@@ -1,2 +1,2 @@
-# KiCadProjectTemplate
-Template git repository for electronics projects
+# OpenCoil_Driver
+Driver PCB for the OpenCoil FPGA based tesla coil project.
