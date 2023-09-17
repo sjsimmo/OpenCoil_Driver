@@ -1,0 +1,24 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ebe95cd6-a3e1-48e4-a841-8289b8b632e2)
+
+  (paper "A4")
+
+  (title_block
+    (title "ProjectTemplate")
+    (date "2023-09-16")
+    (rev "0")
+    (company "SJSIMMO LABS")
+    (comment 1 "sjsimmo123@gmail.com")
+    (comment 2 "Samuel Simmons")
+    (comment 4 "Template Project for KiCad")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
