@@ -5,13 +5,13 @@
   (paper "A4")
 
   (title_block
-    (title "ProjectTemplate")
+    (title "OpenCoil_Driver")
     (date "2023-09-16")
     (rev "0")
     (company "SJSIMMO LABS")
     (comment 1 "sjsimmo123@gmail.com")
     (comment 2 "Samuel Simmons")
-    (comment 4 "Template Project for KiCad")
+    (comment 4 "Driver PCB for OpenCoil FPGA based tesla coil project")
   )
 
   (lib_symbols
