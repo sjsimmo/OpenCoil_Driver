@@ -502,6 +502,18 @@
     [
       "02c0304a-27e5-4bb2-8dbc-c4dfbe789d8f",
       "Regulators"
+    ],
+    [
+      "3422881b-b39c-4f75-870c-3e89e541d204",
+      "ADC"
+    ],
+    [
+      "4a1fddc8-378e-44ba-9029-82e058c35158",
+      "CT Input"
+    ],
+    [
+      "1a7b36bb-cd91-41cf-b295-8c359e3381da",
+      "Analog Inputs"
     ]
   ],
   "text_variables": {}

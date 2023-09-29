@@ -975,7 +975,7 @@
     (uuid f22a8b8b-069a-46a8-8004-c3f813ff31db)
   )
 
-  (hierarchical_label "INB" (shape input) (at 86.36 95.25 180) (fields_autoplaced)
+  (hierarchical_label "~{INB}" (shape input) (at 86.36 95.25 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 9e8e5961-2820-45ca-9261-425375dbe3b8)
   )
@@ -987,7 +987,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid cfe80d72-d1a6-49b1-bc33-51a6ace902b4)
   )
-  (hierarchical_label "INA" (shape input) (at 86.36 92.71 180) (fields_autoplaced)
+  (hierarchical_label "~{INA}" (shape input) (at 86.36 92.71 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d0a72561-975a-4c22-86ad-599c8cab0971)
   )
