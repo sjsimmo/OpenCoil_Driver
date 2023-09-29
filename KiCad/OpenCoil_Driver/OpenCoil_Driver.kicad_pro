@@ -490,6 +490,18 @@
     [
       "ebe95cd6-a3e1-48e4-a841-8289b8b632e2",
       ""
+    ],
+    [
+      "01269b5f-7cc4-4f99-b437-94d719a37835",
+      "Gate Driver 1"
+    ],
+    [
+      "66cdabd7-9956-4106-9026-d1bfa0b3caa8",
+      "Gate Driver 2"
+    ],
+    [
+      "02c0304a-27e5-4bb2-8dbc-c4dfbe789d8f",
+      "Regulators"
     ]
   ],
   "text_variables": {}
